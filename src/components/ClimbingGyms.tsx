@@ -77,6 +77,9 @@ const ClimbingGyms = () => {
   return (
     <div>
       <h1>Climbing Gyms</h1>
+      <p>This page shows climbing gyms in the Bay Area.
+        I have added some filters, so that you can find a gym that matches what you're looking for, but the information might not be up-to-date. Clear the filters and scroll down to see all of the clubs. Please contact me if you see any errors.
+      </p>
 
       {/* Filters */}
       <div className="filters">

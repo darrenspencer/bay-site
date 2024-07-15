@@ -102,7 +102,7 @@ const RunningClubs = () => {
     <div>
       <h1>Running Clubs</h1>
       <p>This page shows active running clubs in the Bay Area.
-        I have added some filters, so that you can find a club that matches what you're looking for, but the information might not be up-to-date. A lot of clubs meet at different spots around the city, and most of the time I have only included one location on the map. Clear the filters and scroll down to see all of the clubs. Please contact me if you see any errors.
+        I have added some filters, so that you can find a club that matches what you're looking for, but the information might not be up-to-date. A lot of clubs meet at different spots around the city, and most of the time I have only included one location on the map. Clear the filters and scroll down to see all of the clubs. Please contact me if you see any errors or want to add a club: darrendavidspencer at gmail dot com.
       </p>
 
       {/* Filters */}

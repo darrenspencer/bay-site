@@ -101,7 +101,7 @@ const CyclingClubs = () => {
   return (
     <div>
       <h1>Cycling Clubs</h1>
-      <p>This page shows active cycling clubs in the Bay Area.
+      <p>This page shows cycling clubs in the Bay Area. It's unclear if all of them are active.
         I have added some filters, so that you can find a club that matches what you're looking for, but the information might not be up-to-date. A lot of clubs meet at different spots around the city, and most of the time I have only included one location on the map. Clear the filters and scroll down to see all of the clubs. Please contact me if you see any errors.
       </p>
 
